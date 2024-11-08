@@ -113,11 +113,7 @@ The frontend provides a web interface for users to interact with the NFT platfor
    ```
    cd frontend
    ```
-
-2. Install dependencies:
-   ```
-   npm install
-   ```
+Open the `frontend/index.html` file in a web browser.
 
 ### Usage
 
